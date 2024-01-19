@@ -5,7 +5,7 @@ export class Planets {
 		const numPlanets = 10000
 		const imgs = [
 			'/static/assets/planets/sun.png',
-			'd/static/assets/planets/ryhotplanet32x32.png',
+			'/static/assets/planets/ryhotplanet32x32.png',
 			'/static/assets/planets/dryvenuslikeplane32x32t.png',
 			'/static/assets/planets/exoplanet32x32.png',
 			'/static/assets/planets/iceplanet32x32.png',
